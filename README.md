@@ -27,7 +27,7 @@ The dataset has the following columns:
 ``Actor 3``: Third main actor   
 
 ## Data Cleaning and Transformations
-Performing data cleaning like removing the columns where a lot of missing values are there.Also filling the missing valuse with appropriate data.
+Performing data cleaning like removing the columns where a lot of missing values are there.Also filling the missing values columns with appropriate data.
 Doing data transformations like converting columns where string value is given into numeric data.Transformation is essential for a predictive model. 
 ## Conclusion
 In conclusion, this project provides valuable insights and a predictive model for movie rating prediction. The film industry can benefit from these findings to make data-driven decisions regarding movie production, casting, and marketing. The most influential factors identified are the year of release, the number of votes, and movie duration.
